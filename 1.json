@@ -1,1 +1,14 @@
-a
+{
+    "server": "18.236.187.71",
+    "server_port": 443,
+    "password": "amazonskr05",
+    "method": "aes-256-cfb",
+    "timeout": 60,
+    "protocol": "",
+    "protocol_param": "",
+    "obfs": "",
+    "obfs_param": "",
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "mtu": 1480
+}
