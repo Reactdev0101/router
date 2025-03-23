@@ -1,7 +1,7 @@
 {
-    "server": "18.236.187.71",
-    "server_port": 443,
-    "password": "amazonskr05",
+    "server": "194.116.173.21",
+    "server_port": 9038,
+    "password": "gYCYXfkUQEs2TaJQ",
     "method": "aes-256-cfb",
     "timeout": 60,
     "protocol": "",
